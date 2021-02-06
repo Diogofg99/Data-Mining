@@ -1,4 +1,4 @@
-# Data-Mining
+# Data-Mining - Clustering 
 
 ## Scored 18 out of 20
 
