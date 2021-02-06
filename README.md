@@ -1,6 +1,6 @@
 # Data-Mining
 
-Scored 18 out of 20
+## Scored 18 out of 20
 
 This dataset was provided by the Paralyzed Veterans of America (PVA). PVA is a non-profit organization that provides programs and services for US veterans with spinal cord injuries or disease.
 With an in-house database of 13 million donors, PVA is also one of the largest direct mail fundraisers in the United States of America.
